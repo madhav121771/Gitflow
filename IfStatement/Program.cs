@@ -31,6 +31,7 @@ namespace IfStatement
                 Console.WriteLine("Your number is five!");
             }
             // rest of the part here
+                       
             else
             {
                 Console.WriteLine("It is an all integer number!");
