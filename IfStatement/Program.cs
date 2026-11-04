@@ -26,11 +26,7 @@ namespace IfStatement
             {
                 Console.WriteLine("Your number is four");
             }
-            else if (userNumber == 5)
-            {
-                Console.WriteLine("Your number is five");
-            }
-            // rest of the part here
+                       
             else
             {
                 Console.WriteLine("It is an all integer number");
