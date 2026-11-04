@@ -28,7 +28,7 @@ namespace IfStatement
             }
             else if (userNumber == 5)
             {
-                Console.WriteLine("Your number is five");
+                Console.WriteLine("Your number is five!");
             }
             // rest of the part here
             else
