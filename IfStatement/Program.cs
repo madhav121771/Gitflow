@@ -18,7 +18,11 @@ namespace IfStatement
             {
                 Console.WriteLine("Your number is two");
             }
-           
+            else if (true)
+            {
+                Console.WriteLine("Your number is two");
+            }
+
             else
             {
 
