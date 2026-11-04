@@ -26,12 +26,17 @@ namespace IfStatement
             {
                 Console.WriteLine("Your number is four");
             }
+            else if (userNumber == 5)
+            {
+                Console.WriteLine("Your number is five!");
+            }
+            // rest of the part here
                        
             else
             {
                 Console.WriteLine("It is an all integer number!");
             }
-            Console.WriteLine("This is if statement learning program");
+            Console.WriteLine("This is if statement learning program!");
             Console.ReadLine();
 
             //Note : && Will check one by one conditions and go out once it found false condition in if statement
