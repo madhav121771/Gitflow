@@ -26,7 +26,7 @@ namespace IfStatement
             {
                 Console.WriteLine("Your number is four");
             }
-            // rest of the part
+            // rest of the part here
             else
             {
                 Console.WriteLine("It is an integer number");
