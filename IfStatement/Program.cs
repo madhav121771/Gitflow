@@ -36,7 +36,7 @@ namespace IfStatement
                 Console.WriteLine("It is an all integer number!");
             }
             Console.WriteLine("This is if statement learning program!");
-            Console.WriteLine("Stashing changes added for test!");
+            Console.WriteLine("Stashing changes added for test !!");
             Console.ReadLine();
 
             //Note : && Will check one by one conditions and go out once it found false condition in if statement
