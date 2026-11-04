@@ -14,12 +14,24 @@ namespace IfStatement
             {
                 Console.WriteLine("Your number is one");
             }
-            
+            else if (userNumber == 2)
+            {
+                Console.WriteLine("Your number is two");
+            }
+            else if (userNumber == 3)
+            {
+                Console.WriteLine("Your number is three");
+            }
+            else if (userNumber == 4 )
+            {
+                Console.WriteLine("Your number is four");
+            }
+            // rest of the part here
             else
             {
-
-                Console.WriteLine("It is an integer number");
+                Console.WriteLine("It is an all integer number");
             }
+            Console.WriteLine("This is if statement learning program");
             Console.ReadLine();
 
             //Note : && Will check one by one conditions and go out once it found false condition in if statement
