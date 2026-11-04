@@ -30,6 +30,10 @@ namespace IfStatement
             {
                 Console.WriteLine("Your number is five!");
             }
+            else if (userNumber == 6)
+            {
+                Console.WriteLine("Your number is six!");
+            }
             // rest of the part here
             else
             {
