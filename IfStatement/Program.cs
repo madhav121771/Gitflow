@@ -14,7 +14,11 @@ namespace IfStatement
             {
                 Console.WriteLine("Your number is one");
             }
-            
+            else if (userNumber == 2)
+            {
+                Console.WriteLine("Your number is two");
+            }
+           
             else
             {
 
