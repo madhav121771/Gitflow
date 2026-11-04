@@ -33,7 +33,7 @@ namespace IfStatement
             // rest of the part here
             else
             {
-                Console.WriteLine("It is an all integer number");
+                Console.WriteLine("It is an all integer number!");
             }
             Console.WriteLine("This is if statement learning program");
             Console.ReadLine();
